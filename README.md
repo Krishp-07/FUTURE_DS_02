@@ -180,7 +180,7 @@ Based on the analysis, the following strategies can reduce churn:
 ```
 Customer-Retention-Churn-Analysis/
 │
-├── Customer Retention Dashboard.pbix
+├── CUSTOMER RETENTION & CHURN ANALYSIS DASHBOARD.pbix
 ├── Telco-Customer-Churn.csv
 ├── task 2 screenshot.png
 ├── README.md
